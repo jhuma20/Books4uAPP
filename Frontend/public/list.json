@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "The Enchanted Forest",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040290.jpg?t=st=1735623519~exp=1735627119~hmac=8159270368048556f637ff0c3fa6cd2c6e81a005ab5661bb9f3c64ebc45428e1&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Fiction Book",
+        "title": "Whispers of the Unknown",
+        "price": 150,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-photo/opened-book-lights-generated_1098-2577.jpg?w=740"
+    },
+    {
+        "id": 3,
+        "name": "Romantic Story Book",
+        "title": "Love Beyond Time",
+        "price": 200,
+        "category": "Romance",
+        "image": "https://img.freepik.com/free-photo/heart-open-book-with-blurred-background_1150-19378.jpg?w=740"
+    },
+    {
+        "id": 4,
+        "name": "Adventure Book",
+        "title": "Quest for the Lost Relic",
+        "price": 250,
+        "category": "Adventure",
+        "image": "https://img.freepik.com/free-photo/dark-old-forest-background_1048-8357.jpg?w=740"
+    },
+    {
+        "id": 5,
+        "name": "Horror Story Book",
+        "title": "The Haunting of Willow Creek",
+		"price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/spooky-castle-halloween-scene_1048-8588.jpg?w=740"
+    },
+    {
+        "id": 6,
+        "name": "Children's Story Book",
+        "title": "Adventures of Little Star",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/magic-book-open-with-fantasy-characters_1048-10919.jpg?w=740"
+    },
+
+    {
+        "id": 7,
+        "name": "Mystery Book",
+        "title": "Secrets Beneath the Shadows",
+        "price": 180,
+        "category": "Mystery",
+        "image": "https://img.freepik.com/free-photo/lantern-wooden-table-open-book_1098-23041.jpg?w=740"
+    },
+    {
+        "id": 8,
+        "name": "Fantasy Book",
+        "title": "The Dragon's Pact",
+		"price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/dragons-fantasy-artificial-intelligence-image_23-2150400916.jpg?t=st=1735656834~exp=1735660434~hmac=94981e113be22b4825950c586aac5f1e740d55066ad77c0cd5d6cb241389a92b&w=826"
+    },
+    {
+        "id": 9,
+        "name": "Sci-Fi Book",
+        "title": "Beyond the Stars",
+        "price": 280,
+        "category": "Sci-Fi",
+        "image": "https://img.freepik.com/free-photo/abstract-background-with-futuristic-technology_23-2148878750.jpg?w=740"
+    },
+    {
+        "id": 10,
+        "name": "Thriller Book",
+        "title": "The Silent Stalker",
+        "price": 300,
+        "category": "Thriller",
+        "image": "https://img.freepik.com/free-photo/closeup-black-handgun-dark-background-with-dramatic-lighting_1098-19951.jpg?w=740"
+    },
+    {
+        "id": 11,
+        "name": "Historical Fiction Book",
+        "title": "Legacy of the Crown",
+        "price": 260,
+        "category": "Historical Fiction",
+        "image": "https://img.freepik.com/free-photo/vintage-feather-quill-next-old-book_1258-21868.jpg?w=740"
+    },
+    {
+        "id": 12,
+        "name": "Self-Help Book",
+        "title": "Unlock Your Potential",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/open-book-lighted-light-bulb-near-it_176474-5061.jpg?w=740"
+    },
+    {
+        "id": 13,
+        "name": "Biography",
+        "title": "The Life of Legends",
+        "price": 250,
+        "category": "Biography",
+        "image": "https://img.freepik.com/free-photo/open-book-library_1098-5819.jpg?w=740"
+    },
+    {
+        "id": 14,
+        "name": "Poetry Book",
+        "title": "Whispers of the Soul",
+        "price": 150,
+        "category": "Poetry",
+        "image": "https://img.freepik.com/free-photo/book-flowers-composition_23-2148159086.jpg?w=740"
+    },
+    {
+        "id": 15,
+        "name": "Cookbook",
+        "title": "Gourmet Delights",
+        "price": 350,
+        "category": "Cookbook",
+        "image": "https://img.freepik.com/free-photo/top-view-notebook-kitchen-utensils-copy-space_23-2148426043.jpg?w=740"
+    },
+    {
+        "id": 16,
+        "name": "Travel Book",
+        "title": "Wonders of the World",
+        "price": 300,
+        "category": "Travel",
+        "image": "https://img.freepik.com/free-photo/top-view-travel-accessories-notebook-with-space-text-passport-map_23-2148505297.jpg?w=740"
+    },
+    {
+        "id": 17,
+        "name": "Health & Wellness Book",
+        "title": "The Mindful Path",
+        "price": 200,
+        "category": "Health",
+        "image": "https://img.freepik.com/free-photo/open-book-warm-light-near-coffee-mug_23-2148897157.jpg?w=740"
+    },
+    {
+        "id": 18,
+        "name": "Education Book",
+        "title": "Mastering Mathematics",
+		"price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/top-view-back-school-arrangement-with-copy-space_23-2148750956.jpg?w=740"
+    },
+    {
+        "id": 19,
+        "name": "Comic Book",
+        "title": "The Adventures of Hero X",
+        "price": 100,
+        "category": "Comics",
+        "image": "https://img.freepik.com/free-photo/closeup-open-book_1098-22935.jpg?w=740"
+    },
+    {
+        "id": 20,
+        "name": "Philosophy Book",
+        "title": "Contemplations of Existence",
+        "price": 280,
+        "category": "Philosophy",
+        "image": "https://img.freepik.com/free-photo/open-book-glasses_23-2148897002.jpg?w=740"
+    }, {
+        "id": 21,
+        "name": "Motivational Book",
+        "title": "Rise and Shine",
+        "price": 120,
+        "category": "Motivational",
+        "image": "https://img.freepik.com/free-photo/sunset-book_1232-1512.jpg?w=740"
+    },
+    {
+        "id": 22,
+        "name": "Art Book",
+        "title": "Colors of Imagination",
+        "price": 320,
+        "category": "Art",
+        "image": "https://img.freepik.com/free-photo/artist-palette-with-paint-brush_1122-2103.jpg?w=740"
+    },
+    {
+        "id": 23,
+        "name": "Business Book",
+        "title": "Think Like a Leader",
+        "price": 400,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-photo/stacked-books-office_144627-5749.jpg?w=740"
+    },
+    {
+        "id": 24,
+        "name": "Drama Book",
+        "title": "Echoes of the Past",
+        "price": 200,
+        "category": "Drama",
+        "image": "https://img.freepik.com/free-photo/theater-curtains-stage_1098-1753.jpg?w=740"
+    },
+    {
+        "id": 25,
+        "name": "Spiritual Book",
+        "title": "Awakening the Inner Self",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/book-light-bokeh_1098-17148.jpg?w=740"
+    },
+    {
+        "id": 26,
+        "name": "Science Book",
+        "title": "Exploring the Universe",
+        "price": 300,
+        "category": "Science",
+        "image": "https://img.freepik.com/free-photo/milky-way-galaxy_1122-2278.jpg?w=740"
+    },
+    {
+        "id": 27,
+        "name": "Fantasy Adventure Book",
+        "title": "Knights of the Realm",
+        "price": 250,
+        "category": "Fantasy",
+        "image": "https://img.freepik.com/free-photo/fantasy-knight-standing-dark-forest_1122-2094.jpg?w=740"
+    },
+    {
+        "id": 28,
+        "name": "Environmental Book",
+        "title": "Harmony with Nature",
+        "price": 150,
+        "category": "Environment",
+        "image": "https://img.freepik.com/free-photo/forest-light-rays_1122-2227.jpg?w=740"
+    },
+    {
+        "id": 29,
+        "name": "Psychology Book",
+        "title": "The Human Mind Unveiled",
+        "price": 350,
+        "category": "Psychology",
+        "image": "https://img.freepik.com/free-photo/brain-structure-illustration_1122-2301.jpg?w=740"
+    },
+    {
+        "id": 30,
+        "name": "Humor Book",
+        "title": "Laugh Out Loud",
+        "price": 100,
+        "category": "Humor",
+        "image": "https://img.freepik.com/free-photo/smiling-emoticon_1098-1765.jpg?w=740"
+    },
+    {
+        "id": 31,
+        "name": "Classic Literature",
+        "title": "Timeless Tales",
+        "price": 400,
+        "category": "Classics",
+        "image": "https://img.freepik.com/free-photo/vintage-classic-book-shelf_1122-1710.jpg?w=740"
+    },
+    {
+        "id": 32,
+        "name": "Political Book",
+        "title": "Shaping the World",
+        "price": 280,
+        "category": "Politics",
+        "image": "https://img.freepik.com/free-photo/flag-political-debate_1122-1857.jpg?w=740"
+    },
+    {
+        "id": 33,
+        "name": "Cooking Tips",
+        "title": "The Chef’s Guide",
+        "price": 180,
+        "category": "Cookbook",
+        "image": "https://img.freepik.com/free-photo/ingredients-recipe-book_1122-2064.jpg?w=740"
+    },
+    {
+        "id": 34,
+        "name": "Music Book",
+        "title": "Harmony and Rhythm",
+        "price": 220,
+        "category": "Music",
+        "image": "https://img.freepik.com/free-photo/musical-notes-sheet_1122-2042.jpg?w=740"
+    },
+    {
+        "id": 35,
+        "name": "Tech Book",
+        "title": "Coding Mastery",
+        "price": 500,
+        "category": "Technology",
+        "image": "https://img.freepik.com/free-photo/coding-laptop-desk_1122-2071.jpg?w=740"
+    },
+    {
+        "id": 36,
+        "name": "Gardening Book",
+        "title": "Bloom with Nature",
+        "price": 120,
+        "category": "Gardening",
+        "image": "https://img.freepik.com/free-photo/planting-flower-pot_1122-1890.jpg?w=740"
+    },
+    {
+        "id": 37,
+        "name": "Fashion Book",
+        "title": "Style and Grace",
+        "price": 350,
+        "category": "Fashion",
+        "image": "https://img.freepik.com/free-photo/fashion-magazine-scene_1122-1912.jpg?w=740"
+    },
+    {
+        "id": 38,
+        "name": "DIY Book",
+        "title": "Crafting Made Easy",
+        "price": 200,
+        "category": "DIY",
+        "image": "https://img.freepik.com/free-photo/handicraft-tools-creative-workspace_1122-2038.jpg?w=740"
+    },
+    {
+        "id": 39,
+        "name": "Short Stories",
+        "title": "Tales to Remember",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/book-page-heart-shape_1122-1905.jpg?w=740"
+    },
+    {
+        "id": 40,
+        "name": "Language Book",
+        "title": "Mastering Spanish",
+        "price": 300,
+        "category": "Languages",
+        "image": "https://img.freepik.com/free-photo/spanish-learning-book_1122-1974.jpg?w=740"
+    }
+]

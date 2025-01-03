@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Eater&family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&family=Frijole&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Poppins:wght@300;500&family=Roboto+Condensed:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family: "Poppins", sans-serif;
+}
