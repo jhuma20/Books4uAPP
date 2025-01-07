@@ -17,7 +17,7 @@
   "scripts": {
     "dev":"nodemon index.js",
     "start":"node index.js",
-    "build":"npm install && npm install --prefix  Frontend && npm run build --prefix Frontend"
+    "build":"npm install && npm install --prefix  Frontend && npm run build --prefix Frontend "
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
