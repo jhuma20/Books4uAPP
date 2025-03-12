@@ -1,21 +1,20 @@
- # Books4u App
+# Books4u App
 
 ## 📌 Overview
-Books4u is an online bookstore platform that provides users with a seamless experience to explore, purchase, and manage books. The platform features a user-friendly interface, advanced filtering options, and an intuitive UI designed using Daisy UI. Data modeling and cleaning are powered by Tableau, ensuring an optimized book recommendation experience.
+Books4u is an online bookstore platform that provides users with a seamless experience for exploring, purchasing, and managing books. The platform features a user-friendly interface, advanced filtering options, and an intuitive UI designed using Daisy UI.
 
 ## 🚀 Features
 - 📚 Browse a wide collection of books
 - 🔍 Advanced search and filtering options
-- 🛒 Add books to cart and purchase seamlessly
-- 📊 Data-driven book recommendations (powered by Tableau)
+- 🛒 Add books to the cart and purchase seamlessly
 - 🎨 Clean and user-friendly UI (built with Daisy UI)
 - 🔐 Secure user authentication and authorization
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Daisy UI, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **Database:** PostgreSQL
-- **Data Analysis & Visualization:** Tableau
+- **Database:** MongoDB
+- **API Testing:** Postman
 - **Authentication:** JWT, OAuth
 - **Deployment:** Vercel / AWS (Optional)
 
@@ -34,9 +33,9 @@ Books4u/
 ### Prerequisites
 Ensure you have the following installed:
 - Node.js (>= 16.x)
-- PostgreSQL
+- MongoDB
 - Git
-- Tableau (for data analytics features)
+- Postman (for API testing)
 
 ### Steps
 1. **Clone the Repository:**
@@ -57,8 +56,8 @@ Ensure you have the following installed:
    npm start
    ```
 4. **Database Setup:**
-   - Configure PostgreSQL and apply migrations.
-   - Ensure your `.env` file contains the correct database URL.
+   - Ensure MongoDB is running locally or provide a cloud connection.
+   - Configure the `.env` file with the correct MongoDB URI.
 
 5. **Run the Application:**
    Open `http://localhost:3000/` in your browser to explore Books4u!
@@ -69,6 +68,7 @@ We welcome contributions! Follow these steps:
 2. Create a new branch (`feature-branch`).
 3. Make changes and commit (`git commit -m "Added new feature"`).
 4. Push changes and create a Pull Request.
+
 
 ## 📬 Contact
 For any queries, feel free to reach out:
